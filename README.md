@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @iraj-development (Iraj Pudasaini)
+- 👀 I’m interested in AWS as of recently.
+- 🌱 I’m currently learning cloud technology as a whole and I am studying for AWS Solutions Architect Associate
+- 💞️ I’m looking to collaborate on cloud based projects.
+- 📫 How to reach me: Email - iraj.development@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I worked as a disability support worker for several years and was an assistant nurse during Covid-19 pandemic.
